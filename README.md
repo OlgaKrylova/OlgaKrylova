@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Olga</h1>
 <h3 align="center">I'm into ML/DL</h3>
 
-- 💬 Ask me about **:snowboarder: :surfer: boards and figure skating**
+- 💬 Ask me about **:snowboarder: :surfer:** boards and figure skating
 
 - 📫 How to reach me **o.v.krylova@mail.ru**
 
