@@ -3,8 +3,6 @@
 
 - 💬 Ask me about **:snowboarder: :surfer:** boards and figure skating
 
-- 📫 How to reach me **o.v.krylova@mail.ru**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
