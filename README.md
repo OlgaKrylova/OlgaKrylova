@@ -17,5 +17,4 @@
 <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a>
 <a href="https://google.github.io/mediapipe/" target="_blank" rel="noreferrer"> <img src="https://github.com/google/mediapipe/blob/master/docs/images/mediapipe_small.png" alt="bash" width="100" height="30"/> </a> 
  </p>
-
-<a href="https://www.codewars.com/users/Olga%20Krylova" target="_blank" rel="noreferrer"> <img src="https://www.codewars.com/users/Olga%20Krylova/badges/micro" alt="bash" width="100" height="30"/> </a>  </p>
+<a href="https://www.codewars.com/users/Olga%20Krylova" target="_blank" rel="noreferrer"> <img src="https://www.codewars.com/users/Olga%20Krylova/badges/small" alt="bash" width="200" height="80"/> </a>  </p>
