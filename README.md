@@ -1,5 +1,5 @@
 <h1 align="left">I'm Olga</h1>
-<h3 align="left">I'm into ML/DL</h3>
+I'm into ML/DL
 
 💬 You can also ask me about **:snowboarder: :surfer:** boards and  :ice_skate: figure skating
 
