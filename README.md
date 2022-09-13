@@ -1,7 +1,7 @@
 <h1 align="left">I'm Olga</h1>
 I'm into ML/DL
 
-💬 You can also ask me about **:snowboarder: :surfer:** boards and  :ice_skate: figure skating
+You can also ask me about **:snowboarder: :surfer: :skateboard:** boards, :ice_skate: figure skating, and french bulldogs
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
